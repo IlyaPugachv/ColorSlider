@@ -1,10 +1,3 @@
-//
-//  ColorAppApp.swift
-//  ColorApp
-//
-//  Created by Илья Пугачёв on 13.12.23.
-//
-
 import SwiftUI
 
 @main

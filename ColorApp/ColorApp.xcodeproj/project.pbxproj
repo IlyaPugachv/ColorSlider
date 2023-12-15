@@ -14,6 +14,8 @@
 		BC145A9C2B29B1CA00FD3BE9 /* ColorAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC145A9B2B29B1CA00FD3BE9 /* ColorAppTests.swift */; };
 		BC145AA62B29B1CA00FD3BE9 /* ColorAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC145AA52B29B1CA00FD3BE9 /* ColorAppUITests.swift */; };
 		BC145AA82B29B1CA00FD3BE9 /* ColorAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC145AA72B29B1CA00FD3BE9 /* ColorAppUITestsLaunchTests.swift */; };
+		BC145AB52B29B32F00FD3BE9 /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC145AB42B29B32F00FD3BE9 /* ColorSlider.swift */; };
+		BC145AB72B29CB3700FD3BE9 /* ColorRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC145AB62B29CB3600FD3BE9 /* ColorRectangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		BC145AA12B29B1CA00FD3BE9 /* ColorAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC145AA52B29B1CA00FD3BE9 /* ColorAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorAppUITests.swift; sourceTree = "<group>"; };
 		BC145AA72B29B1CA00FD3BE9 /* ColorAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BC145AB42B29B32F00FD3BE9 /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
+		BC145AB62B29CB3600FD3BE9 /* ColorRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorRectangle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				BC145A8A2B29B1C800FD3BE9 /* ColorAppApp.swift */,
 				BC145A8C2B29B1C800FD3BE9 /* ContentView.swift */,
+				BC145AB42B29B32F00FD3BE9 /* ColorSlider.swift */,
+				BC145AB62B29CB3600FD3BE9 /* ColorRectangle.swift */,
 				BC145A8E2B29B1CA00FD3BE9 /* Assets.xcassets */,
 				BC145A902B29B1CA00FD3BE9 /* Preview Content */,
 			);
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC145A8D2B29B1C800FD3BE9 /* ContentView.swift in Sources */,
+				BC145AB52B29B32F00FD3BE9 /* ColorSlider.swift in Sources */,
 				BC145A8B2B29B1C800FD3BE9 /* ColorAppApp.swift in Sources */,
+				BC145AB72B29CB3700FD3BE9 /* ColorRectangle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
